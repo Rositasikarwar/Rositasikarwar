@@ -35,8 +35,7 @@
     />
   </a>
 
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -46,10 +45,10 @@
   </a>
   
   <code>
-    <img
-      src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/canva.png?raw=true"
+    <img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/canva.png?raw=true"
       alt="canva"
       width="40"
       height="40"
-  /></code>
+  />
+  </code>
 </p>
