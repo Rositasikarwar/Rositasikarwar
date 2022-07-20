@@ -53,6 +53,7 @@
   </code>
 </p>
 
+### Contact me here :point_down:
 
 &nbsp; &nbsp; <a href="https://www.linkedin.com/in/rosita-sikarwar/">
 <img align="center" width="26px" src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/linkedin.jpeg" />
@@ -61,6 +62,6 @@
 <img align="center" width="26px" src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/twitter.png" />
 </a> &nbsp; &nbsp; &nbsp;
 <a href="mailto:roshitasikarwar@gmail.com">
-<img align="center" width="26px" src="<i class="fa-brands fa-github"></i>" />
+<img align="center" width="26px" src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/gmail.png" />
 </a>
 <br>
