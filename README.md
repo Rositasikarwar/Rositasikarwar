@@ -52,3 +52,15 @@
   />
   </code>
 </p>
+
+
+&nbsp; &nbsp; <a href="https://www.linkedin.com/in/rosita-sikarwar/">
+<img align="center" width="26px" src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/linkedin.jpeg" />
+</a> &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://twitter.com/Rosita31563620">
+<img align="center" width="26px" src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/twitter.png" />
+</a> &nbsp; &nbsp; &nbsp;
+<a href="mailto:roshitasikarwar@gmail.com">
+<img align="center" width="26px" src="<i class="fa-brands fa-github"></i>" />
+</a>
+<br>
