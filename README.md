@@ -66,4 +66,4 @@
 </a>
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/906441/screenshots/16080750/media/224713feeba4d103ad1a189c3562c7f5.png?compress=1&resize=160x120&vertical=top">
