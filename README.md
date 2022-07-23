@@ -66,4 +66,4 @@
 </a>
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/906441/screenshots/16080750/media/224713feeba4d103ad1a189c3562c7f5.png?compress=1&resize=160x120&vertical=top">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47hdjwauhmxun8qt7hh0fy0engzbvfw5dqv1vzm4ws&rid=giphy.gif&ct=g">
