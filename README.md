@@ -65,3 +65,5 @@
 <img align="center" width="26px" src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/gmail.png" />
 </a>
 <br>
+
+(img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47hdjwauhmxun8qt7hh0fy0engzbvfw5dqv1vzm4ws&rid=giphy.gif&ct=g")
