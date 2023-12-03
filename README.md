@@ -47,4 +47,4 @@ Here are some programming languages I am familiar with:
    
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47hdjwauhmxun8qt7hh0fy0engzbvfw5dqv1vzm4ws&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="100" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47hdjwauhmxun8qt7hh0fy0engzbvfw5dqv1vzm4ws&rid=giphy.gif&ct=g">
