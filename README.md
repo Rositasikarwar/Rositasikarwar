@@ -1,4 +1,29 @@
-### Hi there 👋
+### Hi there👋 My Name is Rosita Sikarwar.
+<h2 align="left">About Me</h2>
+
+- Full Stack Developer(MERN Stack)
+- Vice chairperson at @GFG-GCET
+- Ex- Campus Aambasador at @GFG-GCET
+- 8.5K+ LinkedIn 🚀
+
+<br>
+
+<h2 align="left">🥑 Open Source </h2>
+- Hacktoberfest'23 - Open Source Contributor 
+- GirlScript Summer of Code’'22 - Open Source Contributor 
+- Hacktoberfest'22 - Open Source Contributor 
+- SWOC'22 - Open Source Contributor 
+
+ <br>
+
+ <h2>📚 Academic  </h2>
+
+| | |  || | 
+|-----------|-----------|-----------|-----------|-----------|
+| BTech (CSE) | <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Galgotias_University_logo_seal.jpg" width="30" height="30"/> | Galgotias College of Engineering and Technology (GCET)  | 7.4c CGPA | Nov 21 - Current |
+| 10+2 (PCM) | <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsae.cambridgeschool.edu.in%2Fschools%2F&psig=AOvVaw3iS32u3EbKOb_-dS5ZVt2C&ust=1701674645712000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjfkJje8oIDFQAAAAAdAAAAABAQ" width="30" height="30"/> | Cambridge School Greater Noida | 95% | May 19 - Jul 21 |
+
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank">
