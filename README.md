@@ -4,14 +4,8 @@
 - Full Stack Developer(MERN Stack)
 - Vice chairperson at @GFG-GCET
 - Ex- Campus Aambasador at @GFG-GCET
-- 8.5K+ LinkedIn 🚀
-  
+- 8.5K+ LinkedIn 🚀  
 <br>
-Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-
 <h2 align="left">🥑 Open Source </h2>
 - Hacktoberfest'23 - Open Source Contributor 
 - GirlScript Summer of Code’'22 - Open Source Contributor 
@@ -20,7 +14,7 @@ Technologies & Tools
 
  <br>
  
- <h2>📔Academic  </h2>
+<h2>📔Academic  </h2>
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
@@ -28,7 +22,6 @@ Technologies & Tools
 | 10+2 (PCM) | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHiLA6xbtZJB-kpzF57VjI8P2UxVi6KLDGSUPDFM46fgKwMdCgaQpXejaxJQP3O17hVUo&usqp=CAU" width="30" height="30"/> | Cambridge School Greater Noida | 95% | May 19 - Jul 21 |
 
 <br>
-
 
 <h3 align="left">💫Connect with me on social media 📱 </h3>
 
@@ -38,4 +31,4 @@ Technologies & Tools
    
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47hdjwauhmxun8qt7hh0fy0engzbvfw5dqv1vzm4ws&rid=giphy.gif&ct=g">
+<img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47hdjwauhmxun8qt7hh0fy0engzbvfw5dqv1vzm4ws&rid=giphy.gif&ct=g">
