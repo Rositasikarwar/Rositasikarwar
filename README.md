@@ -7,6 +7,7 @@
 - 8.5K+ LinkedIn 🚀
   
 <br>
+
 <h2 align="left">🥑 Open Source </h2>
 - Hacktoberfest'23 - Open Source Contributor 
 - GirlScript Summer of Code’'22 - Open Source Contributor 
@@ -14,7 +15,8 @@
 - SWOC'22 - Open Source Contributor 
 
  <br>
- <h2>📚 Academic  </h2>
+ 
+ <h2>📔Academic  </h2>
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
@@ -24,7 +26,7 @@
 <br>
 
 
-<h3 align="left">⭐ Connect with me on social media 📲 </h3>
+<h3 align="left">💫Connect with me on social media 📱 </h3>
 
 | Linkedin | GitHub | Instagram | Twitter | Mail |
 |-----------|-----------|-----------|-----------|-----------|
