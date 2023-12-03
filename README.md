@@ -21,7 +21,8 @@
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
 | BTech (CSE) | <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Galgotias_University_logo_seal.jpg" width="30" height="30"/> | Galgotias College of Engineering and Technology (GCET)  | 7.4c CGPA | Nov 21 - Current |
-| 10+2 (PCM) | <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsae.cambridgeschool.edu.in%2Fschools%2F&psig=AOvVaw3iS32u3EbKOb_-dS5ZVt2C&ust=1701674645712000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjfkJje8oIDFQAAAAAdAAAAABAQ" width="30" height="30"/> | Cambridge School Greater Noida | 95% | May 19 - Jul 21 |
+| 10+2 (PCM) | <img src="![image](https://github.com/Rositasikarwar/Rositasikarwar/assets/91609480/04f23c88-16b2-4d6a-b35e-635a4862f888)
+" width="30" height="30"/> | Cambridge School Greater Noida | 95% | May 19 - Jul 21 |
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
