@@ -12,6 +12,16 @@
 - Hacktoberfest'22 - Open Source Contributor 
 - SWOC'22 - Open Source Contributor 
 
+<h2>Known Languages</h2>
+
+Here are some programming languages I am familiar with:
+
+- 💻 JavaScript
+- 🐍 Python
+- 🌐 HTML/CSS
+- 🛠️ Node.js 
+- ⚛️ React
+
  <br>
  
 <h2>📔Academic  </h2>
