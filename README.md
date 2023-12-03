@@ -99,11 +99,9 @@
 <h3 align="left">⭐ Connect with me on social media 📲 </h3>
 
 
-| Linkedin | Website | Instagram | Twitter |
-|-----------|-----------|-----------|-----------|
-| <p align="center">
-<a href="https://www.linkedin.com/in/rosita-sikarwar" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rosita" height="30" width="40" /></a></p>|<p align="center"><a href="https://github.com/maityami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p>|<p align="center"><a href="https://www.instagram.com/dessert_soul.4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |<p align="center"> <a href="https://twitter.com/rosita_sikarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p>|
+| Linkedin | GitHub | Medium | Instagram | Twitter |
+|-----------|-----------|-----------|-----------|-----------|
+| <p align="center"><a href="https://www.linkedin.com/in/rosita-sikarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitmaity" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/Rositasikarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://medium.com/@roshitasikarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://www.instagram.com/dessert_soul.4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |<p align="center"> <a href="https://twitter.com/rosita_sikarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p>|
    
 <br>
 
