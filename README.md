@@ -1,5 +1,5 @@
 ### Hi Everyone👋 My Name is Rosita Sikarwar.
-<h2 align="left">About Me</h2>
+<h2 align="left"> 😎About Me</h2>
 
 - Full Stack Developer(MERN Stack)
 - Vice chairperson at @GFG-GCET
@@ -7,7 +7,7 @@
 - 8.5K+ LinkedIn 🚀
   
 <br>
-<h2>Known Languages</h2>
+<h2>👩‍💻Known Languages</h2>
 
 Here are some programming languages I am familiar with:
 
@@ -20,8 +20,11 @@ Here are some programming languages I am familiar with:
 
 <h2 align="left">🥑 Open Source </h2>
 - Hacktoberfest'23 - Open Source Contributor 
-- GirlScript Summer of Code’'22 - Open Source Contributor 
-- Hacktoberfest'22 - Open Source Contributor 
+
+- GirlScript Summer of Code’'22 - Open Source Contributor
+  
+- Hacktoberfest'22 - Open Source Contributor
+  
 - SWOC'22 - Open Source Contributor 
 
  <br>
